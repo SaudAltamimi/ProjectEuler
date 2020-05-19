@@ -1,2 +1,2 @@
 ## ProjectEuler
-Solving some interesting problems from https://projecteuler.net/
+Solving some interesting problems from (ProjectEuler)[https://projecteuler.net/] using Python
