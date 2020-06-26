@@ -5,7 +5,7 @@ from functools import lru_cache
 import tqdm
 
 # we will do it recursivly 
-@lru_cache(maxsize = 200) # adding lru cache is really outstanding way to optimize recursion
+@lru_cache(maxsize = 200) # adding lru cache is really an outstanding way to optimize recursion
 def expand_fraction(fr:Fraction, n_times : int) -> float:
     '''
     input args:
